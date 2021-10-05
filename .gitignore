@@ -5,3 +5,4 @@ output/*
 *.mp4
 test_file_BDrate.py
 metrics/*
+.DS_Store
